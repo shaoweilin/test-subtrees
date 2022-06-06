@@ -1,0 +1,129 @@
+[33mcommit 1c783c71dcfd8b3a2e1cebf980cfc7a163499ff8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 27d3387 d412656
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 22:45:14 2022 -0500
+
+    Merge commit 'd412656d288a76d2e2d86a5b7b03e7d34a23faf0' as 'test-subdir'
+
+[33mcommit d412656d288a76d2e2d86a5b7b03e7d34a23faf0[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 22:45:14 2022 -0500
+
+    Squashed 'test-subdir/' content from commit 1fa7aa0
+    
+    git-subtree-dir: test-subdir
+    git-subtree-split: 1fa7aa0f00a32d138539b3bb7c0b3d071c66a432
+
+[33mcommit 27d3387efb7fc697ebc676a9cf21c5a156620b44[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 22:42:23 2022 -0500
+
+    removed test-subdir
+
+[33mcommit 87244ffc796fd4bbed9d5df5186b44cf6e736e83[m
+Merge: 58892a9 3b1a108
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 18:06:03 2022 -0500
+
+    Merge commit '3b1a10815754733b83fa3a5036b7f3b39e5c9362'
+
+[33mcommit 3b1a10815754733b83fa3a5036b7f3b39e5c9362[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 18:06:03 2022 -0500
+
+    Squashed 'test-subdir/' changes from abacd97..1fa7aa0
+    
+    1fa7aa0 Update moretext.txt
+    
+    git-subtree-dir: test-subdir
+    git-subtree-split: 1fa7aa0f00a32d138539b3bb7c0b3d071c66a432
+
+[33mcommit 1fa7aa0f00a32d138539b3bb7c0b3d071c66a432[m[33m ([m[1;31mtest-subdir/main[m[33m)[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 16:05:25 2022 -0700
+
+    Update moretext.txt
+
+[33mcommit 58892a9834dfb4a68bd378b1afdd24ccb892ccd2[m
+Merge: 7e81b13 1153f49
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 17:14:13 2022 -0500
+
+    Split 'test-subdir/' into commit 'abacd97443c3660aa9ac1d546acb3044def1a9d3'
+    
+    git-subtree-dir: test-subdir
+    git-subtree-mainline: 7e81b13fbd78c822c4802ef5913922f582d08085
+    git-subtree-split: abacd97443c3660aa9ac1d546acb3044def1a9d3
+
+[33mcommit 1153f4962ddc74209d0e1d02008f9cb8f6a7f691[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 17:14:13 2022 -0500
+
+    Squashed 'test-subdir/' changes from 62aa33a..abacd97
+    
+    abacd97 changed moretext.txt
+    
+    git-subtree-dir: test-subdir
+    git-subtree-split: abacd97443c3660aa9ac1d546acb3044def1a9d3
+
+[33mcommit 7e81b13fbd78c822c4802ef5913922f582d08085[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 17:13:55 2022 -0500
+
+    changed moretext.txt
+
+[33mcommit abacd97443c3660aa9ac1d546acb3044def1a9d3[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 17:13:55 2022 -0500
+
+    changed moretext.txt
+
+[33mcommit a8f623eb1f72fcff52d65ea04c9d9f5531dc5802[m
+Merge: d6e0fa8 3142399
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 16:12:30 2022 -0500
+
+    Split 'test-subdir/' into commit '62aa33ad3552b61f46be89ed022e7adddbf9c7d6'
+    
+    git-subtree-dir: test-subdir
+    git-subtree-mainline: d6e0fa8ee507526cb0908a5ae4b6a4e2fc5fdc0d
+    git-subtree-split: 62aa33ad3552b61f46be89ed022e7adddbf9c7d6
+
+[33mcommit 3142399fce72ef1e2d5f7fa1cfcd8a2612d2ce6c[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 16:12:30 2022 -0500
+
+    Squashed 'test-subdir/' content from commit 62aa33a
+    
+    git-subtree-dir: test-subdir
+    git-subtree-split: 62aa33ad3552b61f46be89ed022e7adddbf9c7d6
+
+[33mcommit d6e0fa8ee507526cb0908a5ae4b6a4e2fc5fdc0d[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 15:48:56 2022 -0500
+
+    recreate subdir
+
+[33mcommit 62aa33ad3552b61f46be89ed022e7adddbf9c7d6[m[33m ([m[1;32msplit_test-subdir[m[33m)[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 15:48:56 2022 -0500
+
+    recreate subdir
+
+[33mcommit 1a8c7da9470463f0f6718103c906ae312b5e898c[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 15:48:09 2022 -0500
+
+    deleted subdir
+
+[33mcommit fa00d3c3a650318620ed7c2f366af1adb61b52e4[m
+Author: Shaowei Lin <shaowei@awecom.com>
+Date:   Sun Jun 5 15:45:31 2022 -0500
+
+    initial commit
+
+[33mcommit aa0fa5270393e4e6da0e32f4b577b0b04f94b65f[m
+Author: Shaowei Lin <shaowei@gmail.com>
+Date:   Sun Jun 5 13:39:14 2022 -0700
+
+    Initial commit
